@@ -1,0 +1,2 @@
+- Comunicación máquina a máquina (luisencina/movies-api)
+- realiza una autenticación con las cookies(jwt)
